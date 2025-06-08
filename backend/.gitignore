@@ -1,0 +1,42 @@
+# Environment files
+.env
+.env.*
+*.env
+.env.local
+
+# Dependency directories
+node_modules/
+vendor/
+bower_components/
+
+# Log files
+*.log
+logs/
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploads directory
+uploads/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+*.exe
